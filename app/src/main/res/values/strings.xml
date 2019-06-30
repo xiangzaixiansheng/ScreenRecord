@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenRecordTest</string>
+    <string name="stop_record">停止录制</string>
+</resources>
